@@ -40,5 +40,12 @@ require_once '/path/to/google-api-php-client/vendor/autoload.php';
 
 For additional installation and setup instructions, see [the documentation](https://developers.google.com/api-client-library/php/start/installation).
 
+## Set up ##
+
+* Go to [Google Api Console](https://console.developers.google.com).
+* Go to Credentials.
+* Click in Create credentials.
+* And get json file with credentials and rename it with service-account.json.
+
 ## Examples ##
 See the [`test/`](test) directory for examples of the features.
